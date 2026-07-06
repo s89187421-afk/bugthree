@@ -1,0 +1,18 @@
+filename = 'villagertools-1.21.1-1.0.4.jar'
+name = 'Villager Artifacts'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.0.4'
+
+[download]
+hash = '37d2b0a450892dc446153081dff358a152ed971cf6c8d74e03122bd50e34ea6fa006a2b8527a25c2465c996f74c9d9c853236eadab5208c58bf1a346c454051a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vFiP6C1Y/versions/15Ltwics/villagertools-1.21.1-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'vFiP6C1Y'
+version = '15Ltwics'

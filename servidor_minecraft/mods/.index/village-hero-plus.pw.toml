@@ -1,0 +1,18 @@
+filename = 'village-hero-plus-5.3+1.20.x-1.21.1.jar'
+name = 'Village Hero+'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.3+1.20.x-1.21.1+mod'
+
+[download]
+hash = 'bac16e2f6085eb25a636667983c3571dec597bf383f3d0c327fce4fb272c8c62de1ed5f39b1714c597aa545cc7b075374d01d9bcb1f980bbea6ad09598c6d90b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BZnc0tTs/versions/LxZmuF9X/village-hero-plus-5.3%2B1.20.x-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'BZnc0tTs'
+version = 'LxZmuF9X'
